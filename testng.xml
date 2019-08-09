@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ChromeTestDriver">
+<test name="TestAddrBook">
+<classes>
+<class name="TestNG.TestAddressBook"></class>
+</classes>
+</test>
+</suite>
