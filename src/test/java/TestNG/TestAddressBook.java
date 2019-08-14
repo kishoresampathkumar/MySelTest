@@ -31,7 +31,7 @@ public class TestAddressBook {
 				driver.findElement(By.id("gwt-uid-9")).sendKeys("9834562709");
 				driver.findElement(By.id("gwt-uid-11")).sendKeys("Devops@edureka.co");
 				driver.findElement(By.id("gwt-uid-13")).sendKeys("01/01/2015");
-				//driver.findElement(By.className("v-button-primary")).click();
+				driver.findElement(By.className("v-button-primary")).click();
 				//Thread.sleep(5000);
 				//driver.quit();
   }
